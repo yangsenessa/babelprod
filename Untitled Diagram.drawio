@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T14:02:37.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XSqrv6s6V7TeezYk8MSs" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T14:09:05.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fyP22xQcdVO4YfnzE5UQ" version="16.6.6" type="github">
   <diagram id="DSrccoPb1L_ZYDu_fJc8" name="Page-1">
     <mxGraphModel dx="946" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,8 +113,8 @@
             <mxPoint x="439.5" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6MthNvXkS97YDRX8jHn-35" value="Token Lable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="270" width="80" height="30" as="geometry" />
+        <mxCell id="o6MthNvXkS97YDRX8jHn-35" value="Token Lable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o6MthNvXkS97YDRX8jHn-36" value="Adress in blockchain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="80" height="30" as="geometry" />
@@ -123,13 +123,22 @@
           <mxGeometry x="370" y="320" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o6MthNvXkS97YDRX8jHn-38" value="Rewards Action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="370" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="370" y="480" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o6MthNvXkS97YDRX8jHn-39" value="Timeout lable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="370" y="490" width="80" height="30" as="geometry" />
+          <mxGeometry x="370" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o6MthNvXkS97YDRX8jHn-40" value="Public Contrubution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="370" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o6MthNvXkS97YDRX8jHn-41" value="Co-coreater number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o6MthNvXkS97YDRX8jHn-42" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o6MthNvXkS97YDRX8jHn-43" value="=" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
